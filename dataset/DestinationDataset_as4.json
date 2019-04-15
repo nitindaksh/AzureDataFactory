@@ -1,6 +1,7 @@
 {
 	"name": "DestinationDataset_as4",
 	"properties": {
+		"description": "this one is for testing.",
 		"linkedServiceName": {
 			"referenceName": "AzureSqlDatabase1",
 			"type": "LinkedServiceReference"
