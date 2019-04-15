@@ -1,6 +1,7 @@
 {
 	"name": "SourceDataset_as4",
 	"properties": {
+		"description": "This one for testing.",
 		"linkedServiceName": {
 			"referenceName": "AzureBlobStorage1",
 			"type": "LinkedServiceReference"
