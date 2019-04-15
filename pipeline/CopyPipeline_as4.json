@@ -1,6 +1,7 @@
 {
 	"name": "CopyPipeline_as4",
 	"properties": {
+		"description": "testing",
 		"activities": [
 			{
 				"name": "Copy_as4",
